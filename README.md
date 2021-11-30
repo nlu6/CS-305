@@ -8,3 +8,6 @@ One player acts as the banker. The bank pays out salaries and bonuses, and colle
 Passing Go awards the player **$200**.
 If a player lands on an unowned property, they may purchase it from the bank and they receive the deed.
 And so on...
+
+
+This repository uses the MIT license.
