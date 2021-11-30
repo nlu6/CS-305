@@ -9,5 +9,7 @@ Passing Go awards the player **$200**.
 If a player lands on an unowned property, they may purchase it from the bank and they receive the deed.
 And so on...
 
+##### Trevor's Contribution
+I will type up a more comprehensive and detailed document than the one above that covers all of the game's rules to make it clear how to play a traditional game of Monopoly. 
 
 This repository uses the MIT license.
